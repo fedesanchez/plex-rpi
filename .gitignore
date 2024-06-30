@@ -10,5 +10,9 @@ downloads/*
 .DS_Store
 .env
 flexget/*.sqlite
+flexget/cached_resources
+transmission/bandwidth-groups.json
+transmission/resume
+transmission/torrents
 transmission/dht.dat
 transmission/stats.json
